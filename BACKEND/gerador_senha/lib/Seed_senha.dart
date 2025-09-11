@@ -1,8 +1,5 @@
-// ignore_for_file: file_names
-
 /* Criação da classe da semente o que tera*/
 
-// ignore: camel_case_types
 class Seed_senha {
   final String servico;
   final String fraseSecreta;
